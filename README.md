@@ -1,13 +1,8 @@
 # Desafio Técnico - Analista de Integração de Dados
 ## Systock - Soluções em SQL
 
-> **Candidato:** Carlos Diogo Barbosa  
-> **E-mail para entrega:** arielle.reis@systock.online  
-> **Data de entrega:** 02 de julho de 2025 (prazo: 15h MAO)  
-> **Status:** ✅ **CONCLUÍDO E TESTADO**
-
 ### 🎯 Sobre o Desafio
-Este repositório contém a solução completa para o desafio técnico da vaga de **Analista de Integração de Dados (Implantação)** da Systock. O projeto demonstra habilidades avançadas em SQL, análise de dados, ETL e validação de regras de negócio.
+Este repositório contém a solução completa para o desafio técnico de **Analista de Integração de Dados (Implantação)** da Systock. O projeto demonstra habilidades avançadas em SQL, análise de dados, ETL e validação de regras de negócio.
 
 ### ⚡ **EXECUÇÃO RÁPIDA (5 minutos)**
 
